@@ -9,6 +9,7 @@ https://www.bluetuple.ai/terraform-remote-state-on-aws
 ## kubernetes unmanaged
 Souce code and configuration files for spinning up a kubernetes cluster from scratch
 More information can be found here:
-https://www.bluetuple.ai/
+https://www.bluetuple.ai/kubernetes-from-scratch-on-aws
+
 
 
